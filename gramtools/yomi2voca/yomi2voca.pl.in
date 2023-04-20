@@ -174,7 +174,6 @@ while (<>) {
     s/すぃ/ s i/g;
     s/ずぁ/ z u a/g;
     s/ずぃ/ z i/g;
-    s/ずぅ/ z u/g;
     s/ずゃ/ zy a/g;
     s/ずゅ/ zy u/g;
     s/ずょ/ zy o/g;
@@ -236,7 +235,6 @@ while (<>) {
     s/うぉ/ w o/g;
     s/ふぁ/ f a/g;
     s/ふぃ/ f i/g;
-    s/ふぅ/ f u/g;
     s/ふゃ/ hy a/g;
     s/ふゅ/ hy u/g;
     s/ふょ/ hy o/g;
